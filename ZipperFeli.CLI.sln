@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipperFeli.CLI", "ZipperFeli.CLI.csproj", "{78395CFB-185A-41F9-9F07-36C18D3C7CD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78395CFB-185A-41F9-9F07-36C18D3C7CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78395CFB-185A-41F9-9F07-36C18D3C7CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78395CFB-185A-41F9-9F07-36C18D3C7CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78395CFB-185A-41F9-9F07-36C18D3C7CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D21E40EB-8BFB-4B6E-BED9-327748C58AFD}
+	EndGlobalSection
+EndGlobal
